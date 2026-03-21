@@ -25,6 +25,13 @@ The roadmap module explains where CPcashLabs DAO is going, why that direction ma
 - Governance and treasury evolution
 - Contributor network expansion
 - Long-term product and ecosystem collaboration
+- Multi-rail payment strategy and spend-protection design
+
+## 2026 feature direction
+
+One of the clearest product directions in the roadmap is **multi-rail payments with configurable spend protection**.
+
+As USDT is used in more real-world settlement scenarios, a single payment rail is becoming less able to satisfy different user priorities around cost, privacy, safety, acceptance, and settlement stability. This direction is detailed further in the [Roadmap Whitepaper]({{ '/roadmap/whitepaper/' | relative_url }}).
 
 ## Recommended reading order
 

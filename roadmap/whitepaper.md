@@ -49,6 +49,16 @@ Translate the DAO's values into concrete initiatives, pilot products, or protoco
 
 Create pathways for partnerships, regional communities, and strategic collaboration that compound over time instead of producing short-lived attention.
 
+### 6. Multi-rail payments and configurable spend protection
+
+As USDT is used in more real-world settlement scenarios, a single payment rail is becoming less able to satisfy the needs of different users.
+
+Some users care most about low cost. Others care more about privacy protection. Others may prioritize fund safety, merchant acceptance, or the stability of the final settlement result.
+
+In 2026, CPcashLabs DAO will advance multi-rail payment capabilities and a configurable spend-protection framework. Users should be able to choose the payment path that better fits a given scenario, with clearer control over the trade-offs between privacy, cost, and fund safety.
+
+The goal of this direction is not to add complexity. It is to give users stronger authority over the path of their own funds: how spending is confirmed, how it is protected, and which route completes the transaction.
+
 ## Phased roadmap
 
 ### Phase 1: Foundation
@@ -83,6 +93,7 @@ Key outcomes:
 - community campaigns aligned with DAO strategy
 - contributor-led initiatives with visible outcomes
 - first operational treasury or budget logic
+- early multi-rail payment experiments for real settlement scenarios
 
 ### Phase 4: Maturity
 
@@ -94,6 +105,7 @@ Key outcomes:
 - regional and multilingual contributor cells
 - ecosystem collaboration playbooks
 - a repeatable path from idea to proposal to execution
+- configurable spend-protection policies across multiple payment rails
 
 ## Decision principles
 
