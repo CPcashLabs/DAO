@@ -42,6 +42,18 @@ Open-source repository:
 
 - [CPcashLabs/rpc-wallet](https://github.com/CPcashLabs/rpc-wallet)
 
+## 2025 completed milestone: cross-chain stablecoin payment capabilities
+
+In 2025, we completed cross-chain stablecoin payment capabilities, allowing users to directly pay a stablecoin address on one chain with stablecoin liquidity held on another chain.
+
+For example, a user can complete payment to a Tron USDT address using USDT on Ethereum, without first manually switching chains, bridging assets, and then sending funds through a separate transfer flow.
+
+The value of this milestone is not simply that it added one more payment method. Its value is that it lowered the operational threshold of cross-chain payments and reduced the number of steps users must perform just to complete a payment objective.
+
+Users no longer need to pay as much attention to the underlying differences between chains in order to complete the outcome they actually want. This improves payment efficiency while also reducing time cost, operational error risk, and path exposure introduced by intermediate steps.
+
+It also laid the foundation for a more unified and lower-cost cross-chain payment experience in later stages.
+
 ## Strategic objective
 
 CPcashLabs DAO should aim to become a community-led coordination hub that can:

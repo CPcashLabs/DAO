@@ -35,6 +35,8 @@ Its value is not merely that users can hold more addresses. It is that a single 
 
 In the same year, we also launched `rpc-wallet`, bringing path sovereignty and structural privacy into a more concrete product form. It clarified the boundary between a privacy-first wallet tool and a centralized platform service, while giving self-custody users a more portable and verifiable approach to wallet architecture.
 
+We also completed cross-chain stablecoin payment capabilities in 2025, making it possible for users to pay a stablecoin address on one chain directly from stablecoin liquidity on another. This reduced the operational burden of cross-chain payments and laid the groundwork for a more unified, lower-friction payment experience.
+
 ## 2026 feature direction
 
 One of the clearest product directions in the roadmap is **multi-rail payments with configurable spend protection**.
