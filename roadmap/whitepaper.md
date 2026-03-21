@@ -16,6 +16,16 @@ The roadmap is not only about recruiting people. It is about building the operat
 
 At its core, the roadmap is also about defending personal financial freedom. Your money belongs to you. Your life belongs to you. No one should be able to casually observe, control, or take either away.
 
+## 2025 completed milestone: multi-address mode and address-identity decoupling
+
+In 2025, we completed multi-address mode and formally elevated address management from a basic wallet capability into a privacy-architecture capability.
+
+Its core value is not that users can simply hold more addresses. Its core value is that the product no longer assumes a single address should carry all asset behavior over the long term.
+
+By splitting addresses by scenario, purpose, and relationship, users gain structural separation between receiving, spending, interaction, and asset-consolidation paths. As a result, the risk of continuous linkage, aggregation analysis, and identity inference from on-chain behavior is reduced.
+
+This milestone marked a shift from "assets can be managed" toward "paths can be controlled, information can be isolated, and exposure can be constrained." It also laid the foundation for later capabilities around path sovereignty, structural privacy, and permissioned information disclosure.
+
 ## Strategic objective
 
 CPcashLabs DAO should aim to become a community-led coordination hub that can:

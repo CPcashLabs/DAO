@@ -27,6 +27,12 @@ The roadmap module explains where CPcashLabs DAO is going, why that direction ma
 - Long-term product and ecosystem collaboration
 - Multi-rail payment strategy and spend-protection design
 
+## 2025 completed milestone
+
+In 2025, CPcashLabs DAO completed its multi-address mode and turned address management from a basic wallet function into a privacy-architecture capability.
+
+Its value is not merely that users can hold more addresses. It is that a single address no longer needs to carry the full weight of a user's assets, interactions, and behavioral history over time. This milestone laid the groundwork for stronger path sovereignty, structural privacy, and permissioned disclosure in later stages.
+
 ## 2026 feature direction
 
 One of the clearest product directions in the roadmap is **multi-rail payments with configurable spend protection**.
