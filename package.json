@@ -4,7 +4,10 @@
   "private": true,
   "scripts": {
     "start": "docusaurus start",
+    "start:zh-sg": "docusaurus start --locale zh-sg",
+    "start:ru": "docusaurus start --locale ru",
     "build": "docusaurus build",
+    "preview": "docusaurus build && docusaurus serve",
     "serve": "docusaurus serve",
     "clear": "docusaurus clear",
     "write-translations": "docusaurus write-translations",

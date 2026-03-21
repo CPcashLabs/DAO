@@ -20,7 +20,31 @@ npm install
 npm start
 ```
 
-The default local preview address is `http://localhost:3000/DAO/`.
+The default development address is `http://localhost:3000/DAO/` for the English locale.
+
+Docusaurus v3 runs one locale at a time in development mode. Use the locale-specific scripts when you want to work on translated docs:
+
+```bash
+npm run start:zh-sg
+npm run start:ru
+```
+
+Those commands expose:
+
+- `http://localhost:3000/DAO/zh-sg/`
+- `http://localhost:3000/DAO/ru/`
+
+If you want to preview the full GitHub Pages route structure with all locales available at once, use:
+
+```bash
+npm run preview
+```
+
+This mirrors the production-style static output, including:
+
+- `http://localhost:3000/DAO/`
+- `http://localhost:3000/DAO/zh-sg/`
+- `http://localhost:3000/DAO/ru/`
 
 ## Production build
 
