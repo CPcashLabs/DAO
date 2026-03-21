@@ -1,7 +1,7 @@
 ---
 title: Community Volunteer
 slug: /recruiting/community-volunteer/
-displayed_sidebar: recruitingSidebar
+displayed_sidebar: docsSidebar
 sidebar_position: 2
 ---
 

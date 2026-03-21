@@ -1,39 +1,56 @@
 :root {
-  --ifm-color-primary: #111827;
-  --ifm-color-primary-dark: #0f172a;
-  --ifm-color-primary-darker: #0b1220;
-  --ifm-color-primary-darkest: #020617;
-  --ifm-color-primary-light: #1f2937;
-  --ifm-color-primary-lighter: #374151;
-  --ifm-color-primary-lightest: #4b5563;
-  --ifm-background-color: #fcfcfb;
-  --ifm-font-color-base: #1f2937;
-  --ifm-heading-color: #111827;
-  --ifm-link-color: #0f172a;
-  --ifm-link-hover-color: #334155;
+  --ifm-color-primary: #1a73e8;
+  --ifm-color-primary-dark: #1765cc;
+  --ifm-color-primary-darker: #155fbf;
+  --ifm-color-primary-darkest: #114e9d;
+  --ifm-color-primary-light: #2b7de9;
+  --ifm-color-primary-lighter: #3f87eb;
+  --ifm-color-primary-lightest: #6ea8ef;
+  --ifm-background-color: #ffffff;
+  --ifm-background-surface-color: #ffffff;
+  --ifm-font-color-base: #202124;
+  --ifm-heading-color: #202124;
+  --ifm-link-color: #1a73e8;
+  --ifm-link-hover-color: #174ea6;
+  --ifm-navbar-background-color: rgba(255, 255, 255, 0.96);
+  --ifm-navbar-shadow: 0 1px 0 rgba(60, 64, 67, 0.16);
+  --ifm-menu-color: #3c4043;
+  --ifm-menu-color-active: #1a73e8;
+  --ifm-menu-color-background-active: #e8f0fe;
+  --ifm-menu-color-background-hover: #f1f3f4;
+  --ifm-toc-border-color: #dadce0;
   --ifm-code-font-size: 92%;
-  --ifm-navbar-shadow: 0 1px 0 rgba(15, 23, 42, 0.08);
-  --ifm-toc-border-color: #e5e7eb;
-  --ifm-menu-color-active: #111827;
-  --ifm-breadcrumb-color-active: #111827;
-  --ifm-footer-background-color: #f7f7f5;
-  --ifm-footer-color: #475569;
+  --ifm-breadcrumb-color-active: #1a73e8;
+  --ifm-footer-background-color: #f8f9fa;
+  --ifm-footer-color: #5f6368;
+}
+
+html,
+body {
+  background: #ffffff;
+  color: #202124;
 }
 
 body {
-  background:
-    radial-gradient(circle at top left, rgba(148, 163, 184, 0.14), transparent 28%),
-    linear-gradient(180deg, #fffdfa 0%, #fcfcfb 100%);
+  font-feature-settings: "liga" 1, "calt" 1;
 }
 
 .navbar {
-  background: rgba(255, 255, 255, 0.92);
-  backdrop-filter: blur(14px);
+  backdrop-filter: blur(12px);
 }
 
 .navbar__title {
   font-weight: 700;
-  letter-spacing: 0.01em;
+  letter-spacing: 0;
+  color: #202124;
+}
+
+.navbar__link {
+  font-weight: 500;
+}
+
+.theme-doc-sidebar-container {
+  border-right: 1px solid #e8eaed;
 }
 
 .theme-doc-markdown {
@@ -42,18 +59,18 @@ body {
 
 .theme-doc-markdown h1 {
   margin-bottom: 1rem;
-  font-size: clamp(2.2rem, 5vw, 3rem);
-  line-height: 1.05;
+  font-size: clamp(2.25rem, 5vw, 3.1rem);
+  line-height: 1.08;
 }
 
 .theme-doc-markdown h2 {
-  margin-top: 2.25rem;
-  border-top: 1px solid #ecebe7;
-  padding-top: 1.35rem;
+  margin-top: 2.2rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid #e8eaed;
 }
 
 .theme-doc-markdown h3 {
-  margin-top: 1.5rem;
+  margin-top: 1.45rem;
 }
 
 .theme-doc-markdown p,
@@ -62,29 +79,77 @@ body {
 }
 
 .theme-doc-markdown a {
-  text-decoration-thickness: 1px;
+  color: #1a73e8;
+  font-weight: 500;
+  text-decoration: underline;
+  text-decoration-color: rgba(26, 115, 232, 0.35);
+  text-decoration-thickness: 1.5px;
   text-underline-offset: 0.18em;
+  transition: color 140ms ease, text-decoration-color 140ms ease;
 }
 
-.theme-doc-sidebar-container {
-  border-right: 1px solid #ecebe7;
+.theme-doc-markdown a:hover {
+  color: #174ea6;
+  text-decoration-color: rgba(23, 78, 166, 0.55);
 }
 
-.menu__link {
-  border-radius: 12px;
+.menu {
+  font-size: 0.95rem;
+}
+
+.menu__link,
+.menu__caret {
+  border-radius: 10px;
+}
+
+.menu__link:hover,
+.menu__caret:hover {
+  background: #f1f3f4;
+}
+
+.menu__link--active,
+.menu__link--active:hover {
+  background: #e8f0fe;
+  color: #1a73e8;
+}
+
+.theme-doc-toc-desktop {
+  padding-left: 0.5rem;
 }
 
 .table-of-contents {
-  border-left: 1px solid #ecebe7;
+  border-left: 1px solid #dadce0;
   padding-left: 1rem;
 }
 
+.table-of-contents__link {
+  color: #5f6368;
+  text-decoration: none;
+}
+
+.table-of-contents__link--active,
+.table-of-contents__link:hover {
+  color: #1a73e8;
+}
+
+.breadcrumbs__link {
+  color: #5f6368;
+}
+
+.breadcrumbs__item--active .breadcrumbs__link {
+  color: #1a73e8;
+}
+
 .pagination-nav {
-  display: none;
+  margin-top: 2rem;
+}
+
+.pagination-nav__link {
+  border-color: #dadce0;
 }
 
 .footer {
-  border-top: 1px solid #ecebe7;
+  border-top: 1px solid #e8eaed;
 }
 
 @media (max-width: 996px) {

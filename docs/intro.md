@@ -1,7 +1,7 @@
 ---
 title: CPcashLabs DAO
 slug: /
-hide_table_of_contents: true
+displayed_sidebar: docsSidebar
 ---
 
 ## A multilingual entry point for two core modules

@@ -1,7 +1,7 @@
 ---
 title: CPcashLabs DAO Roadmap Whitepaper
 slug: /roadmap/whitepaper/
-displayed_sidebar: roadmapSidebar
+displayed_sidebar: docsSidebar
 sidebar_position: 4
 ---
 

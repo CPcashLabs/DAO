@@ -1,7 +1,7 @@
 ---
 title: Web3 Community Business Expert
 slug: /recruiting/web3-community-business-expert/
-displayed_sidebar: recruitingSidebar
+displayed_sidebar: docsSidebar
 sidebar_position: 3
 ---
 

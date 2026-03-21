@@ -1,7 +1,7 @@
 ---
 title: Our Vision
 slug: /roadmap/vision/
-displayed_sidebar: roadmapSidebar
+displayed_sidebar: docsSidebar
 sidebar_position: 3
 ---
 

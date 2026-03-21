@@ -1,7 +1,7 @@
 ---
 title: Roadmap Module
 slug: /roadmap/
-displayed_sidebar: roadmapSidebar
+displayed_sidebar: docsSidebar
 sidebar_position: 1
 ---
 

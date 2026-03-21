@@ -1,7 +1,7 @@
 ---
 title: CPcashLabs Ecosystem Overview
 slug: /roadmap/ecosystem/
-displayed_sidebar: roadmapSidebar
+displayed_sidebar: docsSidebar
 sidebar_position: 2
 ---
 

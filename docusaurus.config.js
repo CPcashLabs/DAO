@@ -52,6 +52,19 @@ const config = {
   ],
   plugins: [
     [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        indexDocs: true,
+        indexBlog: false,
+        indexPages: false,
+        docsRouteBasePath: "/",
+        hashed: true,
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+        language: ["en", "zh", "ru"]
+      }
+    ],
+    [
       "@docusaurus/plugin-client-redirects",
       {
         createRedirects(existingPath) {
@@ -83,6 +96,20 @@ const config = {
     navbar: {
       title: "CPcashLabs DAO",
       items: [
+        {
+          to: "/roadmap/",
+          label: "Roadmap",
+          position: "left"
+        },
+        {
+          to: "/recruiting/",
+          label: "Recruiting",
+          position: "left"
+        },
+        {
+          type: "search",
+          position: "right"
+        },
         {
           type: "localeDropdown",
           position: "right"

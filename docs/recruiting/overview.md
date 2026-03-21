@@ -1,7 +1,7 @@
 ---
 title: Recruiting Module
 slug: /recruiting/
-displayed_sidebar: recruitingSidebar
+displayed_sidebar: docsSidebar
 sidebar_position: 1
 ---
 

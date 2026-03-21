@@ -1,7 +1,7 @@
 ---
 title: How to Join
 slug: /recruiting/join-us/
-displayed_sidebar: recruitingSidebar
+displayed_sidebar: docsSidebar
 sidebar_position: 4
 ---
 
