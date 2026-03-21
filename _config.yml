@@ -1,17 +1,12 @@
 title: CPcashLabs DAO
-description: Multilingual ecosystem and recruiting docs for the CPcashLabs brand.
+description: Multilingual ecosystem docs for the CPcashLabs brand, focused on recruiting and community building.
 lang: en
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 markdown: kramdown
 permalink: pretty
-show_excerpts: false
-header_pages:
-  - ecosystem.md
-  - vision.md
-  - community-volunteer.md
-  - web3-community-business-expert.md
-  - join-us.md
+show_downloads: false
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
 exclude:
   - README.md

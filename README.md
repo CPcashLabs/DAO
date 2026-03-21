@@ -4,6 +4,8 @@ This repository contains a GitHub Pages + Jekyll documentation site for the **CP
 
 The site currently focuses on **recruiting and community building**, while also establishing the broader narrative for the CPcashLabs ecosystem.
 
+The visual foundation uses the official [Minimal theme](https://pages-themes.github.io/minimal/), with a small amount of custom styling to fit the multilingual documentation structure.
+
 ## Languages
 
 - English (default, `/`)
@@ -31,4 +33,6 @@ Ruby `3.3.x` and a recent Bundler version are recommended for local development.
 - `join-us.md`: English join page
 - `zh-sg/`: Simplified Chinese (Singapore) pages
 - `ru/`: Russian pages
+- `_layouts/page.html`: shared page wrapper for the Minimal theme
+- `assets/css/style.scss`: Minimal theme overrides for multilingual docs
 - `.github/workflows/deploy-pages.yml`: GitHub Pages deployment workflow
