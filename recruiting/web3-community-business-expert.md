@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Web3 Community Business Expert
-permalink: /web3-community-business-expert/
+permalink: /recruiting/web3-community-business-expert/
 ---
 
-`English` | [简体中文（新加坡）]({{ '/zh-sg/web3-community-business-expert/' | relative_url }}) | [Русский]({{ '/ru/web3-community-business-expert/' | relative_url }})
+`English` | [简体中文（新加坡）]({{ '/zh-sg/recruiting/web3-community-business-expert/' | relative_url }}) | [Русский]({{ '/ru/recruiting/web3-community-business-expert/' | relative_url }})
+
+[Recruiting Module]({{ '/recruiting/' | relative_url }}) | [Community Volunteer]({{ '/recruiting/community-volunteer/' | relative_url }}) | `Web3 Community Business Expert` | [How to Join]({{ '/recruiting/join-us/' | relative_url }})
 
 ## Role summary
 
@@ -33,4 +35,4 @@ If you want to combine industry insight, business judgment, and shared values, t
 
 ## Next step
 
-If you want to help build a long-term ecosystem grounded in privacy and decentralization, please review [How to Join]({{ '/join-us/' | relative_url }}).
+If you want to help build a long-term ecosystem grounded in privacy and decentralization, please review [How to Join]({{ '/recruiting/join-us/' | relative_url }}).

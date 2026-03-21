@@ -1,10 +1,12 @@
 ---
 layout: page
 title: CPcashLabs 生态介绍
-permalink: /zh-sg/ecosystem/
+permalink: /zh-sg/roadmap/ecosystem/
 ---
 
-[English]({{ '/ecosystem/' | relative_url }}) | `简体中文（新加坡）` | [Русский]({{ '/ru/ecosystem/' | relative_url }})
+[English]({{ '/roadmap/ecosystem/' | relative_url }}) | `简体中文（新加坡）` | [Русский]({{ '/ru/roadmap/ecosystem/' | relative_url }})
+
+[路线图模块]({{ '/zh-sg/roadmap/' | relative_url }}) | `生态介绍` | [项目愿景]({{ '/zh-sg/roadmap/vision/' | relative_url }}) | [路线图白皮书]({{ '/zh-sg/roadmap/whitepaper/' | relative_url }})
 
 ## CPcashLabs 品牌生态的定位
 

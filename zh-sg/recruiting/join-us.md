@@ -1,10 +1,12 @@
 ---
 layout: page
 title: 加入方式
-permalink: /zh-sg/join-us/
+permalink: /zh-sg/recruiting/join-us/
 ---
 
-[English]({{ '/join-us/' | relative_url }}) | `简体中文（新加坡）` | [Русский]({{ '/ru/join-us/' | relative_url }})
+[English]({{ '/recruiting/join-us/' | relative_url }}) | `简体中文（新加坡）` | [Русский]({{ '/ru/recruiting/join-us/' | relative_url }})
+
+[招聘模块]({{ '/zh-sg/recruiting/' | relative_url }}) | [社区志愿者]({{ '/zh-sg/recruiting/community-volunteer/' | relative_url }}) | [Web3 社区业务专家]({{ '/zh-sg/recruiting/web3-community-business-expert/' | relative_url }}) | `加入方式`
 
 ## 我们期待怎样的加入
 

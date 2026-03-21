@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Community Volunteer
-permalink: /community-volunteer/
+permalink: /recruiting/community-volunteer/
 ---
 
-`English` | [简体中文（新加坡）]({{ '/zh-sg/community-volunteer/' | relative_url }}) | [Русский]({{ '/ru/community-volunteer/' | relative_url }})
+`English` | [简体中文（新加坡）]({{ '/zh-sg/recruiting/community-volunteer/' | relative_url }}) | [Русский]({{ '/ru/recruiting/community-volunteer/' | relative_url }})
+
+[Recruiting Module]({{ '/recruiting/' | relative_url }}) | `Community Volunteer` | [Web3 Community Business Expert]({{ '/recruiting/web3-community-business-expert/' | relative_url }}) | [How to Join]({{ '/recruiting/join-us/' | relative_url }})
 
 ## Role summary
 
@@ -38,4 +40,4 @@ This role fits people who want to enter Web3 ecosystem building from the front l
 
 ## Next step
 
-If you want to contribute by connecting people, helping people, and organizing people, please review [How to Join]({{ '/join-us/' | relative_url }}).
+If you want to contribute by connecting people, helping people, and organizing people, please review [How to Join]({{ '/recruiting/join-us/' | relative_url }}).

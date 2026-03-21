@@ -1,10 +1,12 @@
 ---
 layout: page
 title: 招聘 Web3 社区业务专家
-permalink: /zh-sg/web3-community-business-expert/
+permalink: /zh-sg/recruiting/web3-community-business-expert/
 ---
 
-[English]({{ '/web3-community-business-expert/' | relative_url }}) | `简体中文（新加坡）` | [Русский]({{ '/ru/web3-community-business-expert/' | relative_url }})
+[English]({{ '/recruiting/web3-community-business-expert/' | relative_url }}) | `简体中文（新加坡）` | [Русский]({{ '/ru/recruiting/web3-community-business-expert/' | relative_url }})
+
+[招聘模块]({{ '/zh-sg/recruiting/' | relative_url }}) | [社区志愿者]({{ '/zh-sg/recruiting/community-volunteer/' | relative_url }}) | `Web3 社区业务专家` | [加入方式]({{ '/zh-sg/recruiting/join-us/' | relative_url }})
 
 ## 角色定位
 
@@ -37,4 +39,4 @@ Web3 社区业务专家需要站在社区与生态之间，理解价值主张、
 
 ## 下一步
 
-如果你希望参与构建一个围绕隐私与去中心化展开的长期生态，欢迎查看 [加入方式]({{ '/zh-sg/join-us/' | relative_url }}) 并发起联系。
+如果你希望参与构建一个围绕隐私与去中心化展开的长期生态，欢迎查看 [加入方式]({{ '/zh-sg/recruiting/join-us/' | relative_url }}) 并发起联系。

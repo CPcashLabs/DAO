@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Как присоединиться
-permalink: /ru/join-us/
+permalink: /ru/recruiting/join-us/
 ---
 
-[简体中文（新加坡）]({{ '/zh-sg/join-us/' | relative_url }}) | [English]({{ '/join-us/' | relative_url }}) | `Русский`
+[简体中文（新加坡）]({{ '/zh-sg/recruiting/join-us/' | relative_url }}) | [English]({{ '/recruiting/join-us/' | relative_url }}) | `Русский`
+
+[Модуль найма]({{ '/ru/recruiting/' | relative_url }}) | [Волонтер сообщества]({{ '/ru/recruiting/community-volunteer/' | relative_url }}) | [Эксперт по бизнес-развитию Web3-сообщества]({{ '/ru/recruiting/web3-community-business-expert/' | relative_url }}) | `Как присоединиться`
 
 ## Какое участие мы приветствуем
 

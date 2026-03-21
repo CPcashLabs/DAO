@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Our Vision
-permalink: /vision/
+permalink: /roadmap/vision/
 ---
 
-`English` | [简体中文（新加坡）]({{ '/zh-sg/vision/' | relative_url }}) | [Русский]({{ '/ru/vision/' | relative_url }})
+`English` | [简体中文（新加坡）]({{ '/zh-sg/roadmap/vision/' | relative_url }}) | [Русский]({{ '/ru/roadmap/vision/' | relative_url }})
+
+[Roadmap Module]({{ '/roadmap/' | relative_url }}) | [Ecosystem]({{ '/roadmap/ecosystem/' | relative_url }}) | `Vision` | [Whitepaper]({{ '/roadmap/whitepaper/' | relative_url }})
 
 ## Why CPcashLabs DAO believes in privacy and decentralization
 

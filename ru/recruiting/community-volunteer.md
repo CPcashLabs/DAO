@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Волонтер сообщества
-permalink: /ru/community-volunteer/
+permalink: /ru/recruiting/community-volunteer/
 ---
 
-[简体中文（新加坡）]({{ '/zh-sg/community-volunteer/' | relative_url }}) | [English]({{ '/community-volunteer/' | relative_url }}) | `Русский`
+[简体中文（新加坡）]({{ '/zh-sg/recruiting/community-volunteer/' | relative_url }}) | [English]({{ '/recruiting/community-volunteer/' | relative_url }}) | `Русский`
+
+[Модуль найма]({{ '/ru/recruiting/' | relative_url }}) | `Волонтер сообщества` | [Эксперт по бизнес-развитию Web3-сообщества]({{ '/ru/recruiting/web3-community-business-expert/' | relative_url }}) | [Как присоединиться]({{ '/ru/recruiting/join-us/' | relative_url }})
 
 ## Кратко о роли
 
@@ -38,4 +40,4 @@ permalink: /ru/community-volunteer/
 
 ## Следующий шаг
 
-Если вы хотите вносить вклад, соединяя людей, помогая людям и организуя людей, откройте страницу [Как присоединиться]({{ '/ru/join-us/' | relative_url }}).
+Если вы хотите вносить вклад, соединяя людей, помогая людям и организуя людей, откройте страницу [Как присоединиться]({{ '/ru/recruiting/join-us/' | relative_url }}).

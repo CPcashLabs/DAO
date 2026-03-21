@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Обзор экосистемы CPcashLabs
-permalink: /ru/ecosystem/
+permalink: /ru/roadmap/ecosystem/
 ---
 
-[简体中文（新加坡）]({{ '/zh-sg/ecosystem/' | relative_url }}) | [English]({{ '/ecosystem/' | relative_url }}) | `Русский`
+[简体中文（新加坡）]({{ '/zh-sg/roadmap/ecosystem/' | relative_url }}) | [English]({{ '/roadmap/ecosystem/' | relative_url }}) | `Русский`
+
+[Модуль дорожной карты]({{ '/ru/roadmap/' | relative_url }}) | `Экосистема` | [Визия]({{ '/ru/roadmap/vision/' | relative_url }}) | [Белая книга]({{ '/ru/roadmap/whitepaper/' | relative_url }})
 
 ## Роль экосистемы бренда CPcashLabs
 

@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Эксперт по бизнес-развитию Web3-сообщества
-permalink: /ru/web3-community-business-expert/
+permalink: /ru/recruiting/web3-community-business-expert/
 ---
 
-[简体中文（新加坡）]({{ '/zh-sg/web3-community-business-expert/' | relative_url }}) | [English]({{ '/web3-community-business-expert/' | relative_url }}) | `Русский`
+[简体中文（新加坡）]({{ '/zh-sg/recruiting/web3-community-business-expert/' | relative_url }}) | [English]({{ '/recruiting/web3-community-business-expert/' | relative_url }}) | `Русский`
+
+[Модуль найма]({{ '/ru/recruiting/' | relative_url }}) | [Волонтер сообщества]({{ '/ru/recruiting/community-volunteer/' | relative_url }}) | `Эксперт по бизнес-развитию Web3-сообщества` | [Как присоединиться]({{ '/ru/recruiting/join-us/' | relative_url }})
 
 ## Кратко о роли
 
@@ -33,4 +35,4 @@ permalink: /ru/web3-community-business-expert/
 
 ## Следующий шаг
 
-Если вы хотите помогать строить долгосрочную экосистему, основанную на приватности и децентрализации, откройте страницу [Как присоединиться]({{ '/ru/join-us/' | relative_url }}).
+Если вы хотите помогать строить долгосрочную экосистему, основанную на приватности и децентрализации, откройте страницу [Как присоединиться]({{ '/ru/recruiting/join-us/' | relative_url }}).

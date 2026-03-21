@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Наша визия
-permalink: /ru/vision/
+permalink: /ru/roadmap/vision/
 ---
 
-[简体中文（新加坡）]({{ '/zh-sg/vision/' | relative_url }}) | [English]({{ '/vision/' | relative_url }}) | `Русский`
+[简体中文（新加坡）]({{ '/zh-sg/roadmap/vision/' | relative_url }}) | [English]({{ '/roadmap/vision/' | relative_url }}) | `Русский`
+
+[Модуль дорожной карты]({{ '/ru/roadmap/' | relative_url }}) | [Экосистема]({{ '/ru/roadmap/ecosystem/' | relative_url }}) | `Визия` | [Белая книга]({{ '/ru/roadmap/whitepaper/' | relative_url }})
 
 ## Почему CPcashLabs DAO делает ставку на приватность и децентрализацию
 

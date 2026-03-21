@@ -1,10 +1,12 @@
 ---
 layout: page
 title: How to Join
-permalink: /join-us/
+permalink: /recruiting/join-us/
 ---
 
-`English` | [简体中文（新加坡）]({{ '/zh-sg/join-us/' | relative_url }}) | [Русский]({{ '/ru/join-us/' | relative_url }})
+`English` | [简体中文（新加坡）]({{ '/zh-sg/recruiting/join-us/' | relative_url }}) | [Русский]({{ '/ru/recruiting/join-us/' | relative_url }})
+
+[Recruiting Module]({{ '/recruiting/' | relative_url }}) | [Community Volunteer]({{ '/recruiting/community-volunteer/' | relative_url }}) | [Web3 Community Business Expert]({{ '/recruiting/web3-community-business-expert/' | relative_url }}) | `How to Join`
 
 ## What kind of participation we welcome
 

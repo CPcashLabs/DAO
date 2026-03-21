@@ -1,10 +1,12 @@
 ---
 layout: page
 title: 我们的愿景
-permalink: /zh-sg/vision/
+permalink: /zh-sg/roadmap/vision/
 ---
 
-[English]({{ '/vision/' | relative_url }}) | `简体中文（新加坡）` | [Русский]({{ '/ru/vision/' | relative_url }})
+[English]({{ '/roadmap/vision/' | relative_url }}) | `简体中文（新加坡）` | [Русский]({{ '/ru/roadmap/vision/' | relative_url }})
+
+[路线图模块]({{ '/zh-sg/roadmap/' | relative_url }}) | [生态介绍]({{ '/zh-sg/roadmap/ecosystem/' | relative_url }}) | `项目愿景` | [路线图白皮书]({{ '/zh-sg/roadmap/whitepaper/' | relative_url }})
 
 ## 为什么 CPcashLabs DAO 坚持隐私与去中心化
 

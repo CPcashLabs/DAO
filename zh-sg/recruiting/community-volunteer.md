@@ -1,10 +1,12 @@
 ---
 layout: page
 title: 招聘社区志愿者
-permalink: /zh-sg/community-volunteer/
+permalink: /zh-sg/recruiting/community-volunteer/
 ---
 
-[English]({{ '/community-volunteer/' | relative_url }}) | `简体中文（新加坡）` | [Русский]({{ '/ru/community-volunteer/' | relative_url }})
+[English]({{ '/recruiting/community-volunteer/' | relative_url }}) | `简体中文（新加坡）` | [Русский]({{ '/ru/recruiting/community-volunteer/' | relative_url }})
+
+[招聘模块]({{ '/zh-sg/recruiting/' | relative_url }}) | `社区志愿者` | [Web3 社区业务专家]({{ '/zh-sg/recruiting/web3-community-business-expert/' | relative_url }}) | [加入方式]({{ '/zh-sg/recruiting/join-us/' | relative_url }})
 
 ## 角色定位
 
@@ -38,4 +40,4 @@ permalink: /zh-sg/community-volunteer/
 
 ## 加入建议
 
-如果你愿意从连接人、服务人、组织人开始，为一个更开放的 Web3 世界贡献力量，欢迎前往 [加入方式]({{ '/zh-sg/join-us/' | relative_url }}) 页面了解下一步。
+如果你愿意从连接人、服务人、组织人开始，为一个更开放的 Web3 世界贡献力量，欢迎前往 [加入方式]({{ '/zh-sg/recruiting/join-us/' | relative_url }}) 页面了解下一步。
