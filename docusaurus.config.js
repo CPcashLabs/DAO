@@ -9,6 +9,15 @@ const config = {
   baseUrl: "/DAO/",
   organizationName: "CPcashLabs",
   projectName: "DAO",
+  headTags: [
+    {
+      tagName: "meta",
+      attributes: {
+        name: "algolia-site-verification",
+        content: "3D86F36A97556E00"
+      }
+    }
+  ],
   onBrokenLinks: "throw",
   trailingSlash: true,
   markdown: {
