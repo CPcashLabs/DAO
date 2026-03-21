@@ -5,3 +5,6 @@ _site
 .bundle
 vendor/bundle
 node_modules
+.docusaurus
+build
+npm-debug.log*
