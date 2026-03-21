@@ -51,7 +51,13 @@ One of the clearest product directions in the roadmap is **multi-rail payments w
 
 As USDT is used in more real-world settlement scenarios, a single payment rail is becoming less able to satisfy different user priorities around cost, privacy, safety, acceptance, and settlement stability. This direction is detailed further in the [Roadmap Whitepaper]({{ '/roadmap/whitepaper/' | relative_url }}).
 
-## Recommended reading order
+## How this module connects to the rest of the site
+
+The roadmap module explains why CPcashLabs DAO exists, what it has already completed, and where it is going next.
+
+The recruiting module turns that direction into concrete roles, contribution paths, and collaboration capacity. If you finish this module and want to participate, continue to the [Recruiting module]({{ '/recruiting/' | relative_url }}).
+
+## Recommended reading order within this module
 
 1. Read the [Ecosystem Overview]({{ '/roadmap/ecosystem/' | relative_url }}) for the broad context
 2. Continue with the [Vision]({{ '/roadmap/vision/' | relative_url }}) to understand principles

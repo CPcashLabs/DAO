@@ -23,3 +23,9 @@ Recruiting is the current action-focused module of CPcashLabs DAO. It exists to 
 Before a DAO can scale, it needs people who can communicate, organize, recruit, and build trust across the ecosystem.
 
 That is why recruiting is one of the first major modules in this documentation site.
+
+## How this module connects to the roadmap
+
+Recruiting is not separate from strategy. The roadmap module defines the values, milestones, and long-term direction that these roles are meant to serve.
+
+If you want the broader context first, read the [Vision]({{ '/roadmap/vision/' | relative_url }}) and the [Roadmap Whitepaper]({{ '/roadmap/whitepaper/' | relative_url }}). If you already understand the direction, continue with the role pages in this module.

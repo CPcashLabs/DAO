@@ -34,6 +34,14 @@ An ecosystem does not grow through products or technology alone. It also grows t
 
 That is why recruiting and community building are our first priorities at this stage.
 
+## How to continue reading
+
+If you want to understand the principles behind this ecosystem, continue to [Vision]({{ '/roadmap/vision/' | relative_url }}).
+
+If you want the structured development path, continue to the [Roadmap Whitepaper]({{ '/roadmap/whitepaper/' | relative_url }}).
+
+If you already want to participate in building it, continue to the [Recruiting module]({{ '/recruiting/' | relative_url }}).
+
 ## What this site can grow into next
 
 This site can later expand to include:

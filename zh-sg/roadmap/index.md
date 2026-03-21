@@ -51,7 +51,13 @@ permalink: /zh-sg/roadmap/
 
 随着 USDT 在更多真实结算场景中被使用，单一支付通道越来越难以同时满足成本、隐私、安全性、支付接受度与结果稳定性等不同诉求。这个方向会在 [路线图白皮书]({{ '/zh-sg/roadmap/whitepaper/' | relative_url }}) 中进一步展开。
 
-## 推荐阅读顺序
+## 这个模块与站点其他部分如何衔接
+
+路线图模块回答的是：CPcashLabs DAO 为什么存在、已经完成了什么、接下来要往哪里走。
+
+招聘模块则把这条方向转化为具体角色、参与路径与协作能力。如果你读完这个模块后希望进一步参与，可以继续进入 [招聘模块]({{ '/zh-sg/recruiting/' | relative_url }})。
+
+## 模块内推荐阅读顺序
 
 1. 先看 [生态介绍]({{ '/zh-sg/roadmap/ecosystem/' | relative_url }}) 了解整体背景
 2. 再看 [项目愿景]({{ '/zh-sg/roadmap/vision/' | relative_url }}) 理解核心原则

@@ -29,6 +29,15 @@ We do not need a highly polished traditional resume. We care more about:
 - Your consistency and ability to act
 - Your willingness to build with the community over time
 
+## Recommended reading before you reach out
+
+If you want the broader context before contacting us, we recommend reading:
+
+- [Vision]({{ '/roadmap/vision/' | relative_url }}): the values behind CPcashLabs DAO
+- [Roadmap Whitepaper]({{ '/roadmap/whitepaper/' | relative_url }}): the long-term direction and development phases
+
+These pages help explain how the roles in the recruiting module connect to the larger direction of the ecosystem.
+
 ## Contact placeholder
 
 You can later add real contact channels here, such as:

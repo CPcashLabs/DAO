@@ -16,7 +16,11 @@ The roadmap is not only about recruiting people. It is about building the operat
 
 At its core, the roadmap is also about defending personal financial freedom. Your money belongs to you. Your life belongs to you. No one should be able to casually observe, control, or take either away.
 
-## 2024 foundation milestone: team formation, brand launch, and directional alignment
+## Evolution to date
+
+The milestones below show how CPcashLabs moved from initial organizational setup into concrete privacy-oriented product capabilities.
+
+### 2024 foundation milestone: team formation, brand launch, and directional alignment
 
 In 2024, we assembled a multicultural core team across Russia, Thailand, Hong Kong, and Singapore, creating the initial product and engineering foundation for cross-regional collaboration.
 
@@ -26,7 +30,7 @@ In the same year, the `cp.cash` brand was formally launched, laying the groundwo
 
 2024 was our year of origin. It was the year in which team, brand, and direction were established together, making clear that all later product capabilities would continue to expand around privacy protection, path control, and user self-management.
 
-## 2025 completed milestone: multi-address mode and address-identity decoupling
+### 2025 completed milestone: multi-address mode and address-identity decoupling
 
 In 2025, we completed multi-address mode and formally elevated address management from a basic wallet capability into a privacy-architecture capability.
 
@@ -36,7 +40,7 @@ By splitting addresses by scenario, purpose, and relationship, users gain struct
 
 This milestone marked a shift from "assets can be managed" toward "paths can be controlled, information can be isolated, and exposure can be constrained." It also laid the foundation for later capabilities around path sovereignty, structural privacy, and permissioned information disclosure.
 
-## 2025 completed milestone: rpc-wallet and the wallet-platform boundary
+### 2025 completed milestone: rpc-wallet and the wallet-platform boundary
 
 In 2025, we launched `rpc-wallet`, further turning path sovereignty and structural privacy from principles into an explicit product form.
 
@@ -52,7 +56,7 @@ Open-source repository:
 
 - [CPcashLabs/rpc-wallet](https://github.com/CPcashLabs/rpc-wallet)
 
-## 2025 completed milestone: cross-chain stablecoin payment capabilities
+### 2025 completed milestone: cross-chain stablecoin payment capabilities
 
 In 2025, we completed cross-chain stablecoin payment capabilities, allowing users to directly pay a stablecoin address on one chain with stablecoin liquidity held on another chain.
 
