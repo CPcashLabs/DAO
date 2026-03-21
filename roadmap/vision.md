@@ -12,6 +12,8 @@ permalink: /roadmap/vision/
 
 We believe the next generation of the internet should not be built on centralized control, data abuse, or platform monopolies.
 
+We also believe privacy and decentralization should lead to something concrete: personal financial freedom. Your money belongs to you. Your life belongs to you. No one should be able to casually observe, control, or take either away.
+
 A healthier Web3 world should make room for:
 
 - User ownership of identity, data, and assets
@@ -24,6 +26,20 @@ A healthier Web3 world should make room for:
 We see community as the heart of the ecosystem, not as a traffic channel.
 
 Community members are not passive audiences. They are co-builders who can propose ideas, organize action, and participate in governance.
+
+## Why privacy matters in real life
+
+Privacy is not an abstract feature. It protects dignity, safety, freedom, and the basic right to live without being mapped by others through your assets or transactions.
+
+The All-In Podcast segment shared with our community, featuring CZ, highlights this practical concern: people do not want their lives to become legible to others simply because their funds can be observed.
+
+## Source reference
+
+- Video: [Binance CEO: 4 Months in Prison, $4 Billion Fine, and What Comes Next](https://youtu.be/vQwXgxJxwnw?si=rSCkOsiMchsFQTZZ&t=6539)
+- Program: All-In Podcast
+- Platform: YouTube
+- Timestamp: `1:48:59`
+- Published: `2026-02-10`
 
 ## Who we want to attract
 
@@ -38,4 +54,4 @@ We welcome people who:
 
 We want to help turn the CPcashLabs direction inside Web3 from a brand vision into a real ecosystem that people can join, trust, and build together.
 
-That future needs communicators, organizers, connectors, business builders, and people who believe it is worth the effort.
+That future needs communicators, organizers, connectors, business builders, and people who are willing to protect privacy, decentralization, and personal financial freedom together.

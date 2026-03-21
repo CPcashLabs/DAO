@@ -41,4 +41,4 @@ You can later add real contact channels here, such as:
 
 ## One-line invitation
 
-If you believe privacy is not a luxury and decentralization is more than a slogan, we would love to build that future with you.
+If you are also working toward a world built on privacy, decentralization, and personal financial freedom, join us.

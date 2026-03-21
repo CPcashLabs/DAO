@@ -40,4 +40,6 @@ This module is where we turn values into contributors, relationships, and workin
 
 ## What CPcashLabs DAO is building
 
-Through CPcashLabs DAO, we want to build a privacy-first Web3 ecosystem where contributors can organize, communities can coordinate, and long-term value can be created in a decentralized way.
+Through CPcashLabs DAO, we want to build a privacy-first Web3 ecosystem where contributors can organize, communities can coordinate, and personal financial freedom can be protected in a decentralized way.
+
+Your money belongs to you. Your life belongs to you. No one should be able to casually observe, control, or take either away.

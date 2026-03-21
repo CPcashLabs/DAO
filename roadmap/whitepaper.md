@@ -14,6 +14,8 @@ This roadmap whitepaper describes how CPcashLabs DAO can grow from an early-stag
 
 The roadmap is not only about recruiting people. It is about building the operating layer of the DAO: narrative, contributors, governance, partnerships, treasury discipline, and ecosystem execution.
 
+At its core, the roadmap is also about defending personal financial freedom. Your money belongs to you. Your life belongs to you. No one should be able to casually observe, control, or take either away.
+
 ## Strategic objective
 
 CPcashLabs DAO should aim to become a community-led coordination hub that can:
@@ -22,6 +24,7 @@ CPcashLabs DAO should aim to become a community-led coordination hub that can:
 - build trust through clear values and transparent action
 - turn community energy into repeatable execution
 - evolve from recruiting momentum into governance capacity
+- defend personal financial freedom as a practical outcome of privacy and decentralization
 - create long-term ecosystem value without abandoning privacy and decentralization
 
 ## Core development tracks
@@ -98,9 +101,20 @@ To keep the roadmap coherent, CPcashLabs DAO should make decisions through a few
 
 - privacy before convenience when trade-offs are serious
 - decentralization as an operating direction, not just a slogan
+- financial privacy as part of human freedom, not a premium feature
 - long-term contributor alignment over short-term traffic
 - execution discipline over vague community enthusiasm
 - multilingual accessibility as a strategic asset
+
+## Reference note
+
+One public discussion that reflects this concern around financial privacy is the All-In Podcast segment shared with our community:
+
+- Video: [Binance CEO: 4 Months in Prison, $4 Billion Fine, and What Comes Next](https://youtu.be/vQwXgxJxwnw?si=rSCkOsiMchsFQTZZ&t=6539)
+- Program: All-In Podcast
+- Platform: YouTube
+- Timestamp: `1:48:59`
+- Published: `2026-02-10`
 
 ## Signals of progress
 
