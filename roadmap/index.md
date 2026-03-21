@@ -27,6 +27,14 @@ The roadmap module explains where CPcashLabs DAO is going, why that direction ma
 - Long-term product and ecosystem collaboration
 - Multi-rail payment strategy and spend-protection design
 
+## 2024 foundation milestone
+
+In 2024, we assembled a multicultural core team across Russia, Thailand, Hong Kong, and Singapore, establishing the product and engineering foundation for cross-regional collaboration.
+
+During the same period, we clarified the company's long-term direction: to keep building around Web3 privacy and path sovereignty, and to move cryptocurrency transactions toward a privacy experience closer to cash, where users can truly control both their assets and their information boundaries in the digital world.
+
+That same year, the `cp.cash` brand was officially launched. 2024 was our year of origin, when team, brand, and direction were established together and the basis was laid for all later products, technical evolution, and roadmap execution.
+
 ## 2025 completed milestone
 
 In 2025, CPcashLabs DAO completed its multi-address mode and turned address management from a basic wallet function into a privacy-architecture capability.
