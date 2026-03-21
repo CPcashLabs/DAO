@@ -27,9 +27,9 @@ In the same year, the `cp.cash` brand was formally launched, laying the groundwo
 
 2024 was our year of origin. It was the year in which team, brand, and direction were established together, making clear that all later product capabilities would continue to expand around privacy protection, path control, and user self-management.
 
-### 2025 completed milestone: multi-address mode and address-identity decoupling
+### 2024 completed milestone: multi-address mode and address-identity decoupling
 
-In 2025, we completed multi-address mode and formally elevated address management from a basic wallet capability into a privacy-architecture capability.
+In 2024, we completed multi-address mode and formally elevated address management from a basic wallet capability into a privacy-architecture capability.
 
 Its core value is not that users can simply hold more addresses. Its core value is that the product no longer assumes a single address should carry all asset behavior over the long term.
 

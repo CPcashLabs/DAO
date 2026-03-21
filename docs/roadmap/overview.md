@@ -33,13 +33,11 @@ During the same period, we clarified the company's long-term direction: to keep 
 
 That same year, the `cp.cash` brand was officially launched. 2024 was our year of origin, when team, brand, and direction were established together and the basis was laid for all later products, technical evolution, and roadmap execution.
 
+We also completed multi-address mode in 2024, turning address management from a basic wallet function into a privacy-architecture capability. Its value is not merely that users can hold more addresses. It is that a single address no longer needs to carry the full weight of a user's assets, interactions, and behavioral history over time. This milestone laid the groundwork for stronger path sovereignty, structural privacy, and permissioned disclosure in later stages.
+
 ## 2025 completed milestone
 
-In 2025, CPcashLabs DAO completed its multi-address mode and turned address management from a basic wallet function into a privacy-architecture capability.
-
-Its value is not merely that users can hold more addresses. It is that a single address no longer needs to carry the full weight of a user's assets, interactions, and behavioral history over time. This milestone laid the groundwork for stronger path sovereignty, structural privacy, and permissioned disclosure in later stages.
-
-In the same year, we also launched `rpc-wallet`, bringing path sovereignty and structural privacy into a more concrete product form. It clarified the boundary between a privacy-first wallet tool and a centralized platform service, while giving self-custody users a more portable and verifiable approach to wallet architecture.
+In 2025, we launched `rpc-wallet`, bringing path sovereignty and structural privacy into a more concrete product form. It clarified the boundary between a privacy-first wallet tool and a centralized platform service, while giving self-custody users a more portable and verifiable approach to wallet architecture.
 
 We also completed cross-chain stablecoin payment capabilities in 2025, making it possible for users to pay a stablecoin address on one chain directly from stablecoin liquidity on another. This reduced the operational burden of cross-chain payments and laid the groundwork for a more unified, lower-friction payment experience.
 
