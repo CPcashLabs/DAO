@@ -77,29 +77,9 @@ CPcashLabs DAO should aim to become a community-led coordination hub that can:
 - create long-term ecosystem value without abandoning privacy and decentralization
 - turn security claims into verifiable facts through open-source clients and auditable boundaries
 
-## Core development tracks
+## Current priority directions
 
-### 1. Narrative and identity
-
-Build a consistent multilingual story around CPcashLabs, so contributors, partners, and community members can easily understand what the DAO stands for and why it exists.
-
-### 2. Contributor network
-
-Recruit and organize early contributors, define working roles, and create a reliable flow from interest to participation to ownership.
-
-### 3. Governance and treasury
-
-Introduce lightweight governance, proposal discipline, and treasury thinking early, so the DAO does not grow only as a community, but also as an accountable operating system.
-
-### 4. Product and protocol direction
-
-Translate the DAO's values into concrete initiatives, pilot products, or protocol-level opportunities that can anchor long-term ecosystem relevance.
-
-### 5. Ecosystem expansion
-
-Create pathways for partnerships, regional communities, and strategic collaboration that compound over time instead of producing short-lived attention.
-
-### 6. Multi-rail payments and configurable spend protection
+### 1. Multi-rail payments and configurable spend protection
 
 As USDT is used in more real-world settlement scenarios, a single payment rail is becoming less able to satisfy the needs of different users.
 
@@ -109,7 +89,7 @@ In 2026, CPcashLabs DAO will advance multi-rail payment capabilities and a confi
 
 The goal of this direction is not to add complexity. It is to give users stronger authority over the path of their own funds: how spending is confirmed, how it is protected, and which route completes the transaction.
 
-### 7. Verifiable trust, open-source clients, and trusted app boundaries
+### 2. Verifiable trust, open-source clients, and trusted app boundaries
 
 In 2026, CPcashLabs DAO will treat verifiable trust as a core security direction by fully open-sourcing the iOS and Android clients and introducing AI-assisted auditing workflows.
 
