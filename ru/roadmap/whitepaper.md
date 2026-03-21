@@ -108,7 +108,7 @@ CPcashLabs DAO должен постепенно стать координаци
 
 ## Справочный источник
 
-Одно из публичных обсуждений, хорошо отражающее эту озабоченность финансовой приватностью, — фрагмент All-In Podcast, который вы прислали:
+Одно из публичных обсуждений, хорошо отражающее эту озабоченность финансовой приватностью, — это публичное выступление CZ на All-In Podcast:
 
 - Видео: [Binance CEO: 4 Months in Prison, $4 Billion Fine, and What Comes Next](https://youtu.be/vQwXgxJxwnw?si=rSCkOsiMchsFQTZZ&t=6539)
 - Программа: All-In Podcast

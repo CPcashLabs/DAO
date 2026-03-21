@@ -31,7 +31,7 @@ Community members are not passive audiences. They are co-builders who can propos
 
 Privacy is not an abstract feature. It protects dignity, safety, freedom, and the basic right to live without being mapped by others through your assets or transactions.
 
-The All-In Podcast segment shared with our community, featuring CZ, highlights this practical concern: people do not want their lives to become legible to others simply because their funds can be observed.
+In a public All-In Podcast conversation, CZ underscored this practical concern: people do not want their lives to become legible to others simply because their funds can be observed.
 
 ## Source reference
 

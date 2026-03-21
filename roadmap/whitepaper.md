@@ -108,7 +108,7 @@ To keep the roadmap coherent, CPcashLabs DAO should make decisions through a few
 
 ## Reference note
 
-One public discussion that reflects this concern around financial privacy is the All-In Podcast segment shared with our community:
+One public discussion that reflects this concern around financial privacy is CZ's All-In Podcast appearance:
 
 - Video: [Binance CEO: 4 Months in Prison, $4 Billion Fine, and What Comes Next](https://youtu.be/vQwXgxJxwnw?si=rSCkOsiMchsFQTZZ&t=6539)
 - Program: All-In Podcast
