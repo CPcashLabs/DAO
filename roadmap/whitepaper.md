@@ -26,6 +26,22 @@ By splitting addresses by scenario, purpose, and relationship, users gain struct
 
 This milestone marked a shift from "assets can be managed" toward "paths can be controlled, information can be isolated, and exposure can be constrained." It also laid the foundation for later capabilities around path sovereignty, structural privacy, and permissioned information disclosure.
 
+## 2025 completed milestone: rpc-wallet and the wallet-platform boundary
+
+In 2025, we launched `rpc-wallet`, further turning path sovereignty and structural privacy from principles into an explicit product form.
+
+`rpc-wallet` is not designed as a continuously platformized wallet service. It is a zero-backend, fully client-side wallet tool built for privacy-focused, self-custody users.
+
+Requests are routed through decentralized RPC and on-chain networks rather than centralized account systems, user databases, or conventional backend services. It also follows a strict zero-telemetry, zero-tracking, zero-behavior-reporting posture, so user fund operations and usage patterns are not continuously collected and accumulated by a platform layer.
+
+The product supports core EVM and TRON workflows, as well as Safe-style multisig operations. Private keys and seed phrases are used only briefly in browser memory, do not enter a server environment, and do not create a platform custody boundary.
+
+This launch marked more than a product release. It showed that we are not only decoupling address structure from identity, but also drawing a clearer line between a tool and a platform at the wallet architecture level. It gave users a privacy-first wallet approach that is portable, deployable, verifiable, and less dependent on centralized trust.
+
+Open-source repository:
+
+- [CPcashLabs/rpc-wallet](https://github.com/CPcashLabs/rpc-wallet)
+
 ## Strategic objective
 
 CPcashLabs DAO should aim to become a community-led coordination hub that can:

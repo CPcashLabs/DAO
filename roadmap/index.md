@@ -33,6 +33,8 @@ In 2025, CPcashLabs DAO completed its multi-address mode and turned address mana
 
 Its value is not merely that users can hold more addresses. It is that a single address no longer needs to carry the full weight of a user's assets, interactions, and behavioral history over time. This milestone laid the groundwork for stronger path sovereignty, structural privacy, and permissioned disclosure in later stages.
 
+In the same year, we also launched `rpc-wallet`, bringing path sovereignty and structural privacy into a more concrete product form. It clarified the boundary between a privacy-first wallet tool and a centralized platform service, while giving self-custody users a more portable and verifiable approach to wallet architecture.
+
 ## 2026 feature direction
 
 One of the clearest product directions in the roadmap is **multi-rail payments with configurable spend protection**.
