@@ -53,6 +53,16 @@ Open-source repository:
 
 - [CPcashLabs/rpc-wallet](https://github.com/CPcashLabs/rpc-wallet)
 
+### 2025 completed milestone: CoPouch and collaborative treasury management
+
+In 2025, `CoPouch` became an important completed roadmap milestone by establishing collaborative wallet management based on on-chain multisig contracts.
+
+Its significance was not simply that more than one person could touch the same funds. It upgraded team treasury work from a model in which multiple people shared one wallet and relied mainly on manual coordination into a standardized management model in which roles can be separated, actions can be approved, responsibility can be traced, and records can be reconciled.
+
+Through `CoPouch`, teams can create shared-control wallets, associate different member addresses, configure permissions and spending limits by responsibility, and add approval flows for larger transactions. At the same time, the system records the specific operator and automates transaction statistics and reconciliation.
+
+This milestone materially improved fund security, coordination efficiency, and internal management capacity. It also laid the groundwork for more complete team-oriented and enterprise-oriented capabilities in later stages.
+
 ### 2025 completed milestone: cross-chain stablecoin payment capabilities
 
 In 2025, we completed cross-chain stablecoin payment capabilities, allowing users to directly pay a stablecoin address on one chain with stablecoin liquidity held on another chain.

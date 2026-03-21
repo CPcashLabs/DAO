@@ -39,6 +39,8 @@ We also completed multi-address mode in 2024, turning address management from a 
 
 In 2025, we launched `rpc-wallet`, bringing path sovereignty and structural privacy into a more concrete product form. It clarified the boundary between a privacy-first wallet tool and a centralized platform service, while giving self-custody users a more portable and verifiable approach to wallet architecture.
 
+In the same year, `CoPouch` established collaborative team-wallet management based on on-chain multisig contracts. It upgraded team fund coordination from "multiple people sharing one wallet and relying mainly on manual management" into a standardized model where roles can be separated, actions can be approved, responsibility can be traced, and records can be reconciled.
+
 We also completed cross-chain stablecoin payment capabilities in 2025, making it possible for users to pay a stablecoin address on one chain directly from stablecoin liquidity on another. This reduced the operational burden of cross-chain payments and laid the groundwork for a more unified, lower-friction payment experience.
 
 ## 2026 feature directions
