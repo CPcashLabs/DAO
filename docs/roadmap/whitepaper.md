@@ -75,6 +75,7 @@ CPcashLabs DAO should aim to become a community-led coordination hub that can:
 - evolve from recruiting momentum into governance capacity
 - defend personal financial freedom as a practical outcome of privacy and decentralization
 - create long-term ecosystem value without abandoning privacy and decentralization
+- turn security claims into verifiable facts through open-source clients and auditable boundaries
 
 ## Core development tracks
 
@@ -107,6 +108,14 @@ Some users care most about low cost. Others care more about privacy protection. 
 In 2026, CPcashLabs DAO will advance multi-rail payment capabilities and a configurable spend-protection framework. Users should be able to choose the payment path that better fits a given scenario, with clearer control over the trade-offs between privacy, cost, and fund safety.
 
 The goal of this direction is not to add complexity. It is to give users stronger authority over the path of their own funds: how spending is confirmed, how it is protected, and which route completes the transaction.
+
+### 7. Verifiable trust, open-source clients, and trusted app boundaries
+
+In 2026, CPcashLabs DAO will treat verifiable trust as a core security direction by fully open-sourcing the iOS and Android clients and introducing AI-assisted auditing workflows.
+
+The purpose is to move system security from a promise into a verifiable fact. Private keys should remain only on the user's local device, never uploaded and never held in custody, so asset control stays entirely with the user.
+
+At the ecosystem boundary, CPcashLabs DAO should integrate only applications that meet a high-trust standard: either open source and independently verifiable, or subject to strict audit and credible institutional endorsement. Opaque integrations should be excluded so the ecosystem can form a clearer and more reliable security perimeter.
 
 ## Phased roadmap
 
@@ -155,6 +164,8 @@ Key outcomes:
 - ecosystem collaboration playbooks
 - a repeatable path from idea to proposal to execution
 - configurable spend-protection policies across multiple payment rails
+- fully open-source iOS and Android clients with AI-assisted audit workflows
+- trusted application admission standards based on open-source verification or authoritative audits
 
 ## Decision principles
 

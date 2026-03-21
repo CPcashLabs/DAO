@@ -23,6 +23,7 @@ The roadmap module explains where CPcashLabs DAO is going, why that direction ma
 - Contributor network expansion
 - Long-term product and ecosystem collaboration
 - Multi-rail payment strategy and spend-protection design
+- Verifiable trust, open-source clients, and security-boundary standards
 
 ## 2024 foundation milestone
 
@@ -42,11 +43,18 @@ In the same year, we also launched `rpc-wallet`, bringing path sovereignty and s
 
 We also completed cross-chain stablecoin payment capabilities in 2025, making it possible for users to pay a stablecoin address on one chain directly from stablecoin liquidity on another. This reduced the operational burden of cross-chain payments and laid the groundwork for a more unified, lower-friction payment experience.
 
-## 2026 feature direction
+## 2026 feature directions
 
-One of the clearest product directions in the roadmap is **multi-rail payments with configurable spend protection**.
+Two of the clearest product and ecosystem directions in the roadmap are:
+
+- **multi-rail payments with configurable spend protection**
+- **verifiable trust through fully open-source mobile clients and AI-assisted auditing**
 
 As USDT is used in more real-world settlement scenarios, a single payment rail is becoming less able to satisfy different user priorities around cost, privacy, safety, acceptance, and settlement stability. This direction is detailed further in the [Roadmap Whitepaper](./whitepaper).
+
+At the same time, CPcashLabs DAO plans to make verifiable trust a core 2026 security direction. We will fully open-source the iOS and Android clients, introduce AI-assisted auditing workflows, and shift system security from a promise into something users can directly inspect and verify.
+
+Private keys should remain only on local devices, never uploaded and never held in custody, so asset control stays entirely with the user. We also intend to integrate only applications that meet a high-trust standard: either open source and verifiable, or strictly audited and backed by credible authority. This direction is meant to create clearer security boundaries and a more reliable ecosystem.
 
 ## How this module connects to the rest of the site
 
