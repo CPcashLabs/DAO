@@ -25,13 +25,17 @@ The roadmap module explains where CPcashLabs DAO is going, why that direction ma
 - Multi-rail payment strategy and spend-protection design
 - Verifiable trust, open-source clients, and security-boundary standards
 
-## 2024 foundation milestone
+## 2023 foundation milestone
 
-In 2024, we assembled a multicultural core team across Russia, Thailand, Hong Kong, and Singapore, establishing the product and engineering foundation for cross-regional collaboration.
+In 2023, we assembled a multicultural core team across Russia, Thailand, Hong Kong, and Singapore, establishing the product and engineering foundation for cross-regional collaboration.
 
 During the same period, we clarified the company's long-term direction: to keep building around Web3 privacy and path sovereignty, and to move cryptocurrency transactions toward a privacy experience closer to cash, where users can truly control both their assets and their information boundaries in the digital world.
 
-That same year, the `cp.cash` brand was officially launched. 2024 was our year of origin, when team, brand, and direction were established together and the basis was laid for all later products, technical evolution, and roadmap execution.
+## 2024 origin milestone
+
+In 2024, the `cp.cash` brand was officially launched, laying the groundwork for later product construction, technical evolution, and execution across the broader roadmap.
+
+2024 was our year of origin. With the brand formally established and the strategic direction clarified in the prior stage, it became clear that all later product capabilities would continue to expand around privacy protection, path control, and user self-management.
 
 We also completed multi-address mode in 2024, turning address management from a basic wallet function into a privacy-architecture capability. Its value is not merely that users can hold more addresses. It is that a single address no longer needs to carry the full weight of a user's assets, interactions, and behavioral history over time. This milestone laid the groundwork for stronger path sovereignty, structural privacy, and permissioned disclosure in later stages.
 

@@ -17,15 +17,17 @@ At its core, the roadmap is also about defending personal financial freedom. You
 
 The milestones below show how CPcashLabs moved from initial organizational setup into concrete privacy-oriented product capabilities.
 
-### 2024 foundation milestone: team formation, brand launch, and directional alignment
+### 2023 foundation milestone: team formation and directional alignment
 
-In 2024, we assembled a multicultural core team across Russia, Thailand, Hong Kong, and Singapore, creating the initial product and engineering foundation for cross-regional collaboration.
+In 2023, we assembled a multicultural core team across Russia, Thailand, Hong Kong, and Singapore, creating the initial product and engineering foundation for cross-regional collaboration.
 
 This was also the stage in which we defined the company's long-term direction: to continue building around Web3 privacy and path sovereignty, and to push cryptocurrency transactions toward a privacy experience closer to cash, so that users can truly hold both asset control and information boundaries in the digital world.
 
-In the same year, the `cp.cash` brand was formally launched, laying the groundwork for later product construction, technical evolution, and execution of the broader roadmap.
+### 2024 foundation milestone: brand launch and year of origin
 
-2024 was our year of origin. It was the year in which team, brand, and direction were established together, making clear that all later product capabilities would continue to expand around privacy protection, path control, and user self-management.
+In 2024, the `cp.cash` brand was formally launched, laying the groundwork for later product construction, technical evolution, and execution of the broader roadmap.
+
+2024 was our year of origin. With the brand formally established and the strategic direction carried forward from the prior stage, it became clear that all later product capabilities would continue to expand around privacy protection, path control, and user self-management.
 
 ### 2024 completed milestone: multi-address mode and address-identity decoupling
 
